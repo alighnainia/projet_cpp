@@ -1,5 +1,5 @@
 #include "connection.h"
-//test connection git
+//test tutoriel git
 Connection::Connection()
 {
 
